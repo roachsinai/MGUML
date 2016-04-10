@@ -1,5 +1,5 @@
 ##############################
-# From : blog.csdn.net/zouxy09
+# From : 机器学习实战
 # ############################
 
 from numpy import *

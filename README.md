@@ -8,3 +8,5 @@ To make a good understand of some machine learning methods.
 [Free Mind -- We are drowning in information and starving for knowledge.](http://freemind.pluskid.org/)
 
 [Free Mind 2009~2012](http://blog.pluskid.org/)
+
+[zouxy09的专栏](http://blog.csdn.net/zouxy09)
